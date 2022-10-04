@@ -50,13 +50,13 @@ Recording Daily To-Do-List
 - [✅] 📚 추가 복습 + 예습
 
 2022.10.04 - Day 9
-- [ ] :book: 독서
-- [ ] :computer: 8-9일차 챌린지 마무리 수정
-- [ ] :computer: Udemy - HTML/CSS 강의
-- [ ] :computer: 코코아톡 클론코딩 8-9일차 강의 복습
-- [ ] :computer: 코코아톡 클론코딩 강의 예습 (Min. Goal: #6.12 ~ 6.17)
-- [ ] :calendar_spiral: 타 코딩커뮤니티 이벤트 참여하기
-- [ ] :four_leaf_clover: 1일1커밋
-- [ ] :writing_hand: 블로그 작성 (회고/노트)
-- [ ] :broom: 집 청소 2일차
-- [ ] :person_lifting_weights: 운동
+- [ ] 📖 독서
+- [ ] 💻 8-9일차 챌린지 마무리 수정
+- [ ] 💻 Udemy - HTML/CSS 강의
+- [ ] 💻 코코아톡 클론코딩 8-9일차 강의 복습
+- [ ] 💻 코코아톡 클론코딩 강의 예습 (Min. Goal: #6.12 ~ 6.17)
+- [ ] 🗓️ 타 코딩커뮤니티 이벤트 참여하기
+- [ ] 🍀 1일1커밋
+- [ ] ✍️ 블로그 작성 (회고/노트)
+- [ ] 🧹 집 청소 2일차
+- [ ] 🏋️ 운동

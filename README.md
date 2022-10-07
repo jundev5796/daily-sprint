@@ -87,7 +87,7 @@ Recording Daily To-Do-List
 
 2022.10.07 - Day 12
 - [ ] 📖 독서
-- [ ] 💻 Udemy - HTML/CSS 강의
+- [ ] 💻 Udemy - JavaScript 강의
 - [ ] 💻 코코아톡 클론코딩 11-12일차 챌린지
 - [ ] 💻 코코아톡 클론코딩 강의 예습 (Min. Goal: #6.25 ~ 완강)
 - [ ] :thinking: HTML/CSS 졸업작품 아이디어 고민

@@ -118,7 +118,7 @@ Recording Daily To-Do-List
 - [ ] :computer: Udemy - JavaScript 강의
 - [ ] :computer: [바닐라 JS 크롬 앱] 15일차 퀴즈
 - [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#2.7 ~ 2.10)
-- [ ] :calendar_spiral: 스터디그룹 미팅 (2:00 PM)
+- [ ] 🗓️ 스터디그룹 미팅 (2:00 PM)
 - [ ] :four_leaf_clover: 1일1커밋
 - [ ] :writing_hand: 블로그 작성 (회고/노트)
-- [ ] :person_lifting_weights: 운동
+- [ ] 🏋️ 운동

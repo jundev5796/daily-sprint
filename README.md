@@ -122,4 +122,3 @@ Recording Daily To-Do-List
 - [ ] :four_leaf_clover: 1일1커밋
 - [ ] :writing_hand: 블로그 작성 (회고/노트)
 - [ ] :person_lifting_weights: 운동
-- [ ] :laughing: 혼자 나가서 힐링하고오기

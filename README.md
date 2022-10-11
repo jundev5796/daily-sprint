@@ -143,4 +143,4 @@ Recording Daily To-Do-List
 - [ ] :computer: HTML/CSS 클론코딩
 - [ ] :four_leaf_clover: 1일1커밋
 - [ ] :writing_hand: 블로그 작성 (회고/노트)
-- [ ] :person_lifting_weights: 운동
+- [ ] 🏋️ 운동

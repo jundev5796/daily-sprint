@@ -135,12 +135,13 @@ Recording Daily To-Do-List
 - [✅] 🏋️ 운동
 
 2022.10.12 - Day 17
-- [ ] :book: 독서
-- [ ] :computer: [바닐라 JS 크롬 앱] 17일차 챌린지
-- [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#3.6 ~ 3.8)
-- [ ] :computer: Udemy - JavaScript 강의
-- [ ] :pencil: 3주차 주간회고
-- [ ] :computer: HTML/CSS 클론코딩
-- [ ] :four_leaf_clover: 1일1커밋
-- [ ] :writing_hand: 블로그 작성 (회고/노트)
-- [ ] 🏋️ 운동
+- [✅] 📖 독서
+- [✅] 💻 [바닐라 JS 크롬 앱] 17일차 챌린지
+- [✅] 💻 [바닐라 JS 크롬 앱] 강의 예습 (#3.6 ~ 3.8)
+- [✅] 💻 Udemy - JavaScript 강의
+- [✅] 💻 HTML/CSS 클론코딩
+- [✅] 📝 3주차 주간회고
+- [✅] 🍀 1일1커밋
+- [✅] ✍️ 블로그 작성 (회고/노트)
+- [✅] 🏋️ 운동
+- [✅] 🗓️ 타 코딩커뮤니티 이벤트 참여

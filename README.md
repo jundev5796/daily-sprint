@@ -147,13 +147,24 @@ Recording Daily To-Do-List
 - [✅] 🗓️ 타 코딩커뮤니티 이벤트 참여
 
 2022.10.13 - Day 18
+- [✅] :book: 독서
+- [✅] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#4.0 ~ 4.3)
+- [✅] :computer: Udemy - JavaScript 강의
+- [✅] :computer: HTML/CSS 클론코딩
+- [✅] :four_leaf_clover: 1일1커밋
+- [✅] :writing_hand: 블로그 작성 (회고/노트)
+- [✅] 🏋️ 운동
+- [✅] :scream: 3주차 주간회의 발표준비
+- [✅] 🗓️ 3주차 주간회의
+- [✅] 🗓️ 타 코딩커뮤니티 이벤트 참여
+
+2022.10.14 - Day 19
 - [ ] :book: 독서
-- [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#4.0 ~ 4.3)
+- [ ] :computer: [바닐라 JS 크롬 앱] 19일차 챌린지
+- [ ] :computer: [바닐라 JS 크롬 앱] 강의 복습 (#4.0 ~ 4.3)
+- [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#4.4 ~ 4.7)
 - [ ] :computer: Udemy - JavaScript 강의
 - [ ] :computer: HTML/CSS 클론코딩
 - [ ] :four_leaf_clover: 1일1커밋
 - [ ] :writing_hand: 블로그 작성 (회고/노트)
 - [ ] 🏋️ 운동
-- [ ] :scream: 3주차 주간회의 발표준비
-- [ ] 🗓️ 3주차 주간회의
-- [ ] 🗓️ 타 코딩커뮤니티 이벤트 참여

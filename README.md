@@ -173,7 +173,7 @@ Recording Daily To-Do-List
 - [ ] :book: 독서
 - [ ] :computer: [바닐라 JS 크롬 앱] 19일차 챌린지 해답 코드리뷰
 - [ ] :computer: [바닐라 JS 크롬 앱] 20일차 퀴즈
-- [ ] :computer: [바닐라 JS 크롬 앱] 강의 복습 (#4.0 ~ 4.3)
+- [ ] :computer: [바닐라 JS 크롬 앱] 강의 복습 (Ch.4)
 - [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#5.0 ~ 5.3)
 - [ ] :computer: Udemy - JavaScript 강의
 - [ ] :four_leaf_clover: 1일1커밋

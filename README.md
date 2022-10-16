@@ -170,12 +170,21 @@ Recording Daily To-Do-List
 - [✅] 🏋️ 운동
 
 2022.10.15 - Day 20
-- [ ] :book: 독서
-- [ ] :computer: [바닐라 JS 크롬 앱] 19일차 챌린지 해답 코드리뷰
-- [ ] :computer: [바닐라 JS 크롬 앱] 20일차 퀴즈
-- [ ] :computer: [바닐라 JS 크롬 앱] 강의 복습 (Ch.4)
-- [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#5.0 ~ 5.3)
-- [ ] :computer: Udemy - JavaScript 강의
-- [ ] :four_leaf_clover: 1일1커밋
-- [ ] :writing_hand: 블로그 작성 (회고/노트)
-- [ ] 🏋️ 운동
+- [✅] :book: 독서
+- [✅] :computer: [바닐라 JS 크롬 앱] 19일차 챌린지 해답 코드리뷰
+- [✅] :computer: [바닐라 JS 크롬 앱] 20일차 퀴즈
+- [✅] :computer: [바닐라 JS 크롬 앱] 강의 복습 (Ch.4)
+- [✅] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#5.0 ~ 5.3)
+- [✅] :computer: Udemy - JavaScript 강의
+- [✅] :four_leaf_clover: 1일1커밋
+- [✅] :writing_hand: 블로그 작성 (회고/노트)
+- [✅] 🏋️ 운동
+
+2022.10.16 - Day 21
+- [ ] 📖 독서
+- [ ] 💻 [바닐라 JS 크롬 앱] 21일차 챌린지
+- [ ] 💻 [바닐라 JS 크롬 앱] 강의 복습 (#5.0 ~ 5.3)
+- [ ] 💻 [바닐라 JS 크롬 앱] 강의 예습 (#6.0 ~ 6.2)
+- [ ] 💻 Udemy - JavaScript 강의
+- [ ] 🍀 1일1커밋
+- [ ] ✍️ 블로그 작성 (회고/노트)

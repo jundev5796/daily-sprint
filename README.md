@@ -209,14 +209,12 @@ Recording Daily To-Do-List
 - [✅] ✍️ 블로그 작성 (회고/노트)
 - [✅] 🏋️ 운동
 
-2022.10.19 - Day 24
+2022.10.20 - Day 25
 - [ ] :book: 독서
-- [ ] :computer: [바닐라 JS 크롬 앱] 23일차 챌린지 해답 코드리뷰
-- [ ] :computer: [바닐라 JS 크롬 앱] 24-25일차 챌린지
-- [ ] :computer: [바닐라 JS 크롬 앱] 강의 복습 (#7.0 ~ 7.5)
-- [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#7.6 ~ 7.8)
-- [ ] :computer: Udemy - JavaScript 강의
+- [ ] :computer: [바닐라 JS 크롬 앱] 강의 복습 (#7.6 ~ 7.8)
+- [ ] :computer: [바닐라 JS 크롬 앱] 강의 예습 (#8.0 ~ 8.2)
+- [ ] :computer: Udemy - JS 강의
 - [ ] :four_leaf_clover: 1일1커밋
 - [ ] :writing_hand: 블로그 작성 (회고/노트)
 - [ ] 🏋️ 운동
-- [ ] 🗓️ 타 코딩커뮤니티 이벤트 참여
+- [ ] :pencil: 4주차 주간회의

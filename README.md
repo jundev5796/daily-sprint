@@ -298,3 +298,15 @@ Recording Daily To-Do-List
 - [✅] ✍️ 블로그 작성 (회고/노트)
 - [✅] 🏋️ 운동
 - [✅] 🗓️ 5주차 주간회의
+
+2022.10.28 - Day 33 :fallen_leaf:
+- [ ] :book: 독서
+- [ ] :computer: [바닐라 JS 그림 앱] 26-27일차 챌린지 해답 코드리뷰
+- [ ] :computer: [유튜브 클론코딩] 강의 복습 (#1.3 ~ 1.4)
+- [ ] :computer: [유튜브 클론코딩] 강의 복습 (#2.0 ~ 2.4)
+- [ ] :computer: [유튜브 클론코딩] 강의 예습 (#3.0 ~ 3.4)
+- [ ] :computer: Udemy - JS 강의
+- [ ] :computer: [바닐라 JS 그림 앱] 졸업작품 1일차
+- [ ] :four_leaf_clover: 1일1커밋
+- [ ] :writing_hand: 블로그 작성 (회고/노트)
+- [ ] 🏋️ 운동

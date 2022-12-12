@@ -669,3 +669,9 @@ Recording Daily To-Do-List
 
 2022.12.11(Sun)
 - 생일휴무 🎂
+
+2022.12.12(Mon) 🎄☃️❄️
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - HTML / CSS] 복습 (Section #2)
+- [✅] 🍀 1일1커밋
+- [✅] 🏋️ 운동

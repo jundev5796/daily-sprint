@@ -701,3 +701,7 @@ Recording Daily To-Do-List
 - [✅] 📖 독서
 - [✅] 💻 [Udemy - HTML / CSS] 복습
 - [✅] 🍀 1일1커밋
+
+2022.12.27(Tue) 🎄☃️❄️
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - HTML / CSS] 복습

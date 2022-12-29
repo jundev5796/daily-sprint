@@ -709,3 +709,7 @@ Recording Daily To-Do-List
 2022.12.28(Wed) 🎄☃️❄️
 - [✅] 📖 독서
 - [✅] 💻 [Udemy - HTML / CSS] 복습
+
+2022.12.29(Thu) 🎄☃️❄️
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - HTML / CSS] 복습

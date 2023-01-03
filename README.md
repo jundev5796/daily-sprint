@@ -717,13 +717,13 @@ Recording Daily To-Do-List
 2023.01.01(Sun) 🎄☃️❄️
 - [✅] HAPPY NEW YEAR!
 
-2022.01.02(Tue) 🐰
+2022.01.02(Mon) 🐰
 - [✅] 📖 독서
 - [✅] 💻 [Udemy - HTML / CSS] 복습 (Section #3)
 - [✅] 🍀 1일1커밋
 - [✅] 🏋️ 운동
 
-2023.01.03(Wed) 🐰
+2023.01.03(Tue) 🐰
 - [ ] 📖 독서
 - [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #3)
 - [ ] 🍀 1일1커밋

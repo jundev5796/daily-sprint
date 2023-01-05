@@ -730,6 +730,11 @@ Recording Daily To-Do-List
 - [✅] 🏋️ 운동
 
 2023.01.04(Wed) 🐰
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - HTML / CSS] 복습 (Section #3, #4)
+- [✅] 🏋️ 운동
+
+2023.01.05(Thu) 🐰
 - [ ] 📖 독서
-- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #3, #4)
-- [ ] 🏋️ 운동
+- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #4)
+- [ ] 🧹 집청소 1일차

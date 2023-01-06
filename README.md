@@ -735,6 +735,11 @@ Recording Daily To-Do-List
 - [✅] 🏋️ 운동
 
 2023.01.05(Thu) 🐰
-- [ ] 📖 독서
-- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #4)
-- [ ] 🧹 집청소 1일차
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - HTML / CSS] 복습 (Section #4)
+- [✅] 🧹 집청소 1일차
+
+2023.01.06(Fri) :rabbit:
+- [ ] :book: 독서
+- [ ] :computer: [Udemy - HTML / CSS] 복습 (Section #4)
+- [ ] :broom: 집청소 2일차

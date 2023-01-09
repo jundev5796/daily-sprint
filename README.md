@@ -750,5 +750,9 @@ Recording Daily To-Do-List
 - [✅] 🧹 집청소 3일차
 
 2023.01.08(Sun)
-- [ ] :book: 독서
-- [ ] :computer: [Udemy - HTML / CSS] 복습 (Section #4)
+- [✅] :book: 독서
+- [✅] :computer: [Udemy - HTML / CSS] 복습 (Section #4)
+
+2023.01.09(Mon)
+- [ ] 📖 독서
+- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #4)

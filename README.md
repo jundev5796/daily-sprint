@@ -815,5 +815,9 @@ Recording Daily To-Do-List
 - [✅] 💻 [Udemy - HTML / CSS] 복습 (Section #6)
 
 2023.01.26(Thu)
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - HTML / CSS] 복습 (Section #6, #7)
+
+2023.01.27(Fri)
 - [ ] 📖 독서
-- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #6, #7)
+- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #7)

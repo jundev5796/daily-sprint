@@ -893,6 +893,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ 운동
 
 2023.02.14(Tue)
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - HTML / CSS] 복습 (Section #8)
+
+2023.02.15(Wed)
 - [ ] 📖 독서
-- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #8)
+- [ ] 💻 [Udemy - HTML / CSS] 복습 (Section #9)
 - [ ] 🏋️ 운동

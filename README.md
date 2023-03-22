@@ -1025,5 +1025,9 @@ Recording Daily To-Do-List
 - [✅] 💻 [Udemy - JavaScript] (Section #9)
 
 2023.03.21(Tue)
+- [✅] 📖 독서
+- [✅] 💻 [Udemy - JavaScript] (Section #9)
+
+2023.03.22(Wed)
 - [ ] 📖 독서
 - [ ] 💻 [Udemy - JavaScript] (Section #9)

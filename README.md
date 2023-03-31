@@ -1063,3 +1063,7 @@ Recording Daily To-Do-List
 2023.03.30(Thu)
 - [ ] 📖 독서
 - [ ] 💻 [Udemy - JavaScript] (Section #10)
+
+2023.03.31(Fri)
+- [ ] 📖 독서
+- [ ] 💻 [Udemy - JavaScript] (Section #11)

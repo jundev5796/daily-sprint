@@ -1086,6 +1086,6 @@ Recording Daily To-Do-List
 - [✅] 💻 [Python] - Section #1
 
 2023.04.05(Wed)
-- [✅] 📖 독서
+- [✅] 📖 Reading
 - [✅] 💻 [JavaScript] - Section #11
 - [✅] 💻 [Python] - Section #2 - #3

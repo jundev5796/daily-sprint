@@ -1089,3 +1089,8 @@ Recording Daily To-Do-List
 - [✅] 📖 Reading
 - [✅] 💻 [JavaScript] - Section #11
 - [✅] 💻 [Python] - Section #2 - #3
+
+2023.04.06(Thu)
+- [ ] 📖 Reading
+- [ ] 💻 [JavaScript] - Section #11
+- [ ] 💻 [Python] - Section #3

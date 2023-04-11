@@ -1101,6 +1101,11 @@ Recording Daily To-Do-List
 - [✅] 💻 [Python] - Section #4
 
 2023.04.10(Mon)
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #11
+- [✅] 💻 [Python] - Section #5
+
+2023.04.11(Tue)
 - [ ] 📖 Reading
 - [ ] 💻 [JavaScript] - Section #11
 - [ ] 💻 [Python] - Section #5

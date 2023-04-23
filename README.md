@@ -1154,5 +1154,9 @@ Recording Daily To-Do-List
 - [✅] 💻 [Python] - Section #5
 
 2023.04.22(Sat)
-- [ ] :book: Reading
-- [ ] :computer: [Python] - Section #5, #6
+- [✅] :book: Reading
+- [✅] :computer: [Python] - Section #5, #6
+
+2023.04.23(Sun)
+- [ ] 📖 Reading
+- [ ] 💻 [Python] - Section #6

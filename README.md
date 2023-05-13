@@ -1234,5 +1234,9 @@ Recording Daily To-Do-List
 - [✅] 💻 [JavaScript] - Section #11
 
 2023.05.12(Fri)
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #11
+
+2023.05.12(Fri)
 - [ ] 📖 Reading
 - [ ] 💻 [JavaScript] - Section #11

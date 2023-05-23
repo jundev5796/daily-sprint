@@ -1270,5 +1270,9 @@ Recording Daily To-Do-List
 - [✅] 💻 [JavaScript] - Section #13
 
 2023.05.21(Sun)
-- [ ] 📖 Reading
-- [ ] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
+
+2023.05.23(Mon)
+[ ] 📖 Reading
+[ ] 💻 [JavaScript] - Section #13

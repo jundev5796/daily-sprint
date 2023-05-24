@@ -1273,6 +1273,10 @@ Recording Daily To-Do-List
 - [✅] 📖 Reading
 - [✅] 💻 [JavaScript] - Section #13
 
-2023.05.23(Mon)
+2023.05.23(Tue)
+[✅] 📖 Reading
+[✅] 💻 [JavaScript] - Section #13
+
+2023.05.24(Wed)
 [ ] 📖 Reading
 [ ] 💻 [JavaScript] - Section #13

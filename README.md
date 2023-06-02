@@ -1310,5 +1310,9 @@ Recording Daily To-Do-List
 [✅] 💻 [JavaScript] - Section #13
 
 2023.06.01(Thu)
+[✅] 📖 Reading
+[✅] 💻 [JavaScript] - Section #13
+
+2023.06.02(Fri)
 [ ] 📖 Reading
 [ ] 💻 [JavaScript] - Section #13

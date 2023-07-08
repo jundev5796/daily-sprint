@@ -1454,5 +1454,9 @@ Recording Daily To-Do-List
 [✅] 💻 [JavaScript] - Section #16, #17
 
 2023.07.07(Fri)
+[✅] 📖 Reading
+[✅] 💻 [JavaScript] - Section #17
+
+2023.07.08(Sat)
 [ ] 📖 Reading
 [ ] 💻 [JavaScript] - Section #17

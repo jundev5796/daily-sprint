@@ -1522,5 +1522,9 @@ Recording Daily To-Do-List
 [✅] 💻 [JavaScript] - Section #18
 
 2023.07.24(Mon)
+[✅] 📖 Reading
+[✅] 💻 [JavaScript] - Section #18
+
+2023.07.25(Tue)
 [ ] 📖 Reading
-[ ] 💻 [JavaScript] - Section #18
+[ ] 💻 [JavaScript] - Section #18, #19

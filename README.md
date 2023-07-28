@@ -1536,3 +1536,7 @@ Recording Daily To-Do-List
 2023.07.26(Thu)
 [✅] 📖 Reading
 [✅] 💻 [Dart] - Section #1
+
+2023.07.27(Fri)
+[✅] 📖 Reading
+[✅] 💻 [Dart] - Section #2

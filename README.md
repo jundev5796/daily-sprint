@@ -1529,14 +1529,18 @@ Recording Daily To-Do-List
 [✅] 📖 Reading
 [✅] 💻 [JavaScript] - Section #18, #19
 
-2023.07.25(Wed)
+2023.07.26(Wed)
 [✅] 📖 Reading
 [✅] 💻 [JavaScript] - Section #19, #20
 
-2023.07.26(Thu)
+2023.07.27(Thu)
 [✅] 📖 Reading
 [✅] 💻 [Dart] - Section #1
 
-2023.07.27(Fri)
+2023.07.28(Fri)
 [✅] 📖 Reading
 [✅] 💻 [Dart] - Section #2
+
+2023.07.29(Sat)
+[ ] 📖 Reading
+[ ] 💻 [Dart] - Section #3

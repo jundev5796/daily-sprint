@@ -1510,37 +1510,41 @@ Recording Daily To-Do-List
 [✅] 💻 [JavaScript] - Section #18
 
 2023.07.21(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.22(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.23(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.24(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.25(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18, #19
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18, #19
 
 2023.07.26(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #19, #20
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #19, #20
 
 2023.07.27(Thu)
-[✅] 📖 Reading
-[✅] 💻 [Dart] - Section #1
+- [✅] 📖 Reading
+- [✅] 💻 [Dart] - Section #1
 
 2023.07.28(Fri)
-[✅] 📖 Reading
-[✅] 💻 [Dart] - Section #2
+- [✅] 📖 Reading
+- [✅] 💻 [Dart] - Section #2
 
 2023.07.29(Sat)
-[ ] 📖 Reading
-[ ] 💻 [Dart] - Section #3
+- [✅] 📖 Reading
+- [✅] 💻 [Dart] - Section #3
+
+2023.07.30(Sun)
+- [ ] 📖 Reading
+- [ ] 💻 [Dart] - Section #4

@@ -1546,5 +1546,8 @@ Recording Daily To-Do-List
 - [✅] 💻 [Dart] - Section #3
 
 2023.07.30(Sun)
+- [✅] 📖 Reading
+- [✅] 💻 [Dart] - Section #4
+
 - [ ] 📖 Reading
 - [ ] 💻 [Dart] - Section #4

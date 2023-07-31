@@ -1549,5 +1549,5 @@ Recording Daily To-Do-List
 - [✅] 📖 Reading
 - [✅] 💻 [Dart] - Section #4
 
-- [ ] 📖 Reading
-- [ ] 💻 [Dart] - Section #4
+- [✅] 📖 Reading
+- [✅] 💻 [Dart] - Section #4

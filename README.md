@@ -1553,5 +1553,9 @@ Recording Daily To-Do-List
 - [✅] 💻 [Dart] - Section #4
 
 2023.08.01(Tue)
+- [✅] 📖 Reading
+- [✅] 💻 [Dart] - Section #4
+
+2023.08.02(Wed)
 - [ ] 📖 Reading
-- [ ] 💻 [Dart] - Section #4
+- [ ] 💻 [Flutter] - Section #1

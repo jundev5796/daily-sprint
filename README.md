@@ -1561,5 +1561,9 @@ Recording Daily To-Do-List
 - [✅] 💻 [Flutter] - Section #1
 
 2023.08.03(Thu)
+- [✅] 📖 Reading
+- [✅] 💻 [Flutter] - Section #2
+
+2023.08.04(Fri)
 - [ ] 📖 Reading
 - [ ] 💻 [Flutter] - Section #2

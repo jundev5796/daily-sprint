@@ -1579,3 +1579,7 @@ Recording Daily To-Do-List
 2023.08.07(Mon)
 - [✅] 📖 Reading
 - [✅] 💻 [Flutter] - Section #3
+
+2023.08.08(Tue)
+- [✅] 📖 Reading
+- [✅] 💻 [Flutter] - Section #3

@@ -1580,6 +1580,7 @@ Recording Daily To-Do-List
 - [✅] 📖 Reading
 - [✅] 💻 [Flutter] - Section #3
 
+2023.08.08(Tue)
 - [✅] 📖 독서
 - [✅] 💻 Dart 강의 리뷰 [2.0~2.5]
 - [✅] 💻 Dart 일일 퀴즈

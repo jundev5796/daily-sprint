@@ -1274,240 +1274,240 @@ Recording Daily To-Do-List
 - [✅] 💻 [JavaScript] - Section #13
 
 2023.05.23(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.24(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.25(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.26(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.27(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.28(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.29(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.30(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.05.31(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.06.01(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.06.02(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #13
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #13
 
 2023.06.03(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.04(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.05(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.06(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.07(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.08(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.09(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.10(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.11(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.12(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #14
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #14
 
 2023.06.13(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.14(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.15(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.16(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.17(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.18(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.19(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.20(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.21(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #15
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #15
 
 2023.06.22(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.23(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.24(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.25(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.26(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.27(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.28(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.29(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.06.30(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.07.01(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.07.02(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.07.03(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.07.04(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.07.05(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16
 
 2023.07.06(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #16, #17
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #16, #17
 
 2023.07.07(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #17
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #17
 
 2023.07.08(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #17
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #17
 
 2023.07.09(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #17
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #17
 
 2023.07.10(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #17
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #17
 
 2023.07.11(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #17
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #17
 
 2023.07.12(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.13(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.14(Fri)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.15(Sat)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.16(Sun)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.17(Mon)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.18(Tue)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.19(Wed)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.20(Thu)
-[✅] 📖 Reading
-[✅] 💻 [JavaScript] - Section #18
+- [✅] 📖 Reading
+- [✅] 💻 [JavaScript] - Section #18
 
 2023.07.21(Fri)
 - [✅] 📖 Reading

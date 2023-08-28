@@ -1791,11 +1791,11 @@ Recording Daily To-Do-List
 - [✅] 🎮 C#, Unity - 게임개발 공부
 
 2023.08.28(Mon)
-[ ] 📖 독서
-[ ] :Flutter: TikTok 강의 리뷰 [6.6~6.8]
-[ ] :Flutter: TikTok 강의 [7.0~7.4]
-[ ] :Flutter: TikTok 'Week 4' 챌린지(1) (1일차)
-[ ] 💻 일일 코드 리뷰
-[ ] 🏋️ 운동
-[ ] ✍️ 블로그 작성
-[ ] 🎮 C#, Unity - 게임개발 공부
+- [✅] 📖 독서
+- [✅] :Flutter: TikTok 강의 리뷰 [6.6~6.8]
+- [✅] :Flutter: TikTok 강의 [7.0~7.4]
+- [✅] :Flutter: TikTok 'Week 4' 챌린지(1) (1일차)
+- [✅] 💻 일일 코드 리뷰
+- [✅] 🏋️ 운동
+- [✅] ✍️ 블로그 작성
+- [✅] 🎮 C#, Unity - 게임개발 공부

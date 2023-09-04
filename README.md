@@ -1860,3 +1860,13 @@ Recording Daily To-Do-List
 - [✅] 💻 일일 코드 리뷰
 - [✅] ✍️ 블로그 작성
 - [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.09.04(Mon)
+- [ ] 📖 독서
+- [ ] :Flutter: TikTok 강의 리뷰 [12.0~12.4]
+- [ ] :Flutter: TikTok 강의 [12.5~12.8]
+- [ ] :Flutter: TikTok 'Week 5' 챌린지(1) (1일차)
+- [ ] 💻 일일 코드 리뷰
+- [ ] 🏋️ 운동
+- [ ] ✍️ 블로그 작성
+- [ ] 🎮 C#, Unity - 게임개발 공부

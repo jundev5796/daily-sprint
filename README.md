@@ -1892,3 +1892,13 @@ Recording Daily To-Do-List
 - [✅] ✍️ 블로그 작성
 - [✅] ⏰ 5주차 주간회의 (08:00 PM)
 - [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.09.07(Thu)
+- [ ] 📖 독서
+- [ ] :Flutter: TikTok 강의 리뷰 [14.0~14.6]
+- [ ] :Flutter: TikTok 강의 [15.0~15.4]
+- [ ] :Flutter: TikTok 'Week 5' 챌린지(2) (2일차)
+- [ ] 🏋️ 운동
+- [ ] 💻 일일 코드 리뷰
+- [ ] ✍️ 블로그 작성
+- [ ] 🎮 C#, Unity - 게임개발 공부

@@ -2014,3 +2014,13 @@ Recording Daily To-Do-List
 - [✅] 💻 일일 코드 리뷰
 - [✅] ✍️ 블로그 작성
 - [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.09.19(Tue)
+- [ ] 📖 독서
+- [ ] :Flutter: TikTok 강의 리뷰 [25.0~25.3]
+- [ ] :Flutter: TikTok 강의 [25.4~25.7]
+- [ ] :Flutter: TikTok 'Week 7' 챌린지(1) (2일차)
+- [ ] 🏋️ 운동
+- [ ] 💻 일일 코드 리뷰
+- [ ] ✍️ 블로그 작성
+- [ ] 🎮 C#, Unity - 게임개발 공부

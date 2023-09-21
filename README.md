@@ -2038,11 +2038,20 @@ Recording Daily To-Do-List
 - [✅] 🎮 C#, Unity - 게임개발 공부
 
 2023.09.21(Thu)
+- [✅] 📖 독서
+- [✅] :Flutter: TikTok 강의 리뷰 [26.0~26.2]
+- [❌] :Flutter: TikTok 강의 [26.3~26.6]
+- [❌] :Flutter: TikTok 'Week 7' 챌린지(1) (3일차)
+- [✅] 🗓️ 개인일정
+- [✅] 🏋️ 운동
+- [✅] 💻 일일 코드 리뷰
+- [✅] ✍️ 블로그 작성
+- [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.09.22(Fri)
 - [ ] 📖 독서
-- [ ] :Flutter: TikTok 강의 리뷰 [26.0~26.2]
 - [ ] :Flutter: TikTok 강의 [26.3~26.6]
-- [ ] :Flutter: TikTok 'Week 7' 챌린지(1) (3일차)
-- [ ] 🗓️ 개인일정
+- [ ] :Flutter: TikTok 'Week 7' 챌린지(2) (2일차)
 - [ ] 🏋️ 운동
 - [ ] 💻 일일 코드 리뷰
 - [ ] ✍️ 블로그 작성

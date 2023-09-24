@@ -2068,9 +2068,9 @@ Recording Daily To-Do-List
 - [✅] 🎮 C#, Unity - 게임개발 공부
 
 2023.09.24(Sun)
-- [ ] 📖 독서
-- [ ] :Flutter: TikTok 강의 리뷰 [27.0~27.2]
-- [ ] :Flutter: TikTok 강의 [27.3~27.6]
-- [ ] 💻 일일 코드 리뷰
-- [ ] ✍️ 블로그 작성
-- [ ] 🎮 C#, Unity - 게임개발 공부
+- [✅] 📖 독서
+- [✅] :Flutter: TikTok 강의 리뷰 [27.0~27.2]
+- [✅] :Flutter: TikTok 강의 [27.3~27.6]
+- [✅] 💻 일일 코드 리뷰
+- [✅] ✍️ 블로그 작성
+- [✅] 🎮 C#, Unity - 게임개발 공부

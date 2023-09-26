@@ -2079,8 +2079,18 @@ Recording Daily To-Do-List
 - [✅] 📖 독서
 - [✅] :Flutter: TikTok 강의 리뷰 [27.3~27.6]
 - [✅] :Flutter: TikTok 강의 [28.0~28.4]
-- [✅] :Flutter: TikTok 'Week 8' Final Project (1일차)
+- [🛠️] :Flutter: TikTok 'Week 8' Final Project (1일차)
 - [✅] 🏋️ 운동
 - [✅] 💻 일일 코드 리뷰
 - [✅] ✍️ 블로그 작성
 - [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.09.26(Tue)
+- [ ] 📖 독서
+- [ ] :Flutter: TikTok 강의 리뷰 [28.0~28.4]
+- [ ] :Flutter: TikTok 강의 [29.0~29.5]
+- [ ] :Flutter: TikTok 'Week 8' Final Project (2일차)
+- [ ] 🏋️ 운동
+- [ ] 💻 일일 코드 리뷰
+- [ ] ✍️ 블로그 작성
+- [ ] 🎮 C#, Unity - 게임개발 공부

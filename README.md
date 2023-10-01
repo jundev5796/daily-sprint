@@ -2121,3 +2121,8 @@ Recording Daily To-Do-List
 2023.09.29(Fri) 해피 추석!
 
 2023.09.30(Sat) 해피 추석!
+
+2023.10.01(Sun)
+- [✅] 📖 독서
+- [✅] :Flutter: Flutter Animations 강의 리뷰 [0.0~0.2]
+- [✅] :Flutter: Flutter Animations 강의 [1.0~1.2]

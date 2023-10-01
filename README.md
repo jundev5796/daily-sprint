@@ -2126,4 +2126,14 @@ Recording Daily To-Do-List
 - [✅] 📖 독서
 - [✅] :Flutter: Flutter Animations 강의 리뷰 [0.0~0.2]
 - [✅] :Flutter: Flutter Animations 강의 [1.0~1.2]
-- [✅] 🎮 C#, Unity - 게임개발 공부 
+- [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.10.02(Mon)
+- [ ] 📖 독서
+- [ ] :Flutter: Flutter Animations 강의 리뷰 [1.0~1.2]
+- [ ] :Flutter: Flutter Animations 강의 [1.3~1.5]
+- [ ] :Flutter: Flutter Animations 'Week 9' 챌린지 (1일차)
+- [ ] 🏋️ 운동
+- [ ] 💻 일일 코드 리뷰
+- [ ] ✍️ 블로그 작성
+- [ ] 🎮 C#, Unity - 게임개발 공부

@@ -2210,11 +2210,23 @@ Recording Daily To-Do-List
 - [✅] 🎮 C#, Unity - 게임개발 공부
 
 2023.10.10(Tue)
+- [✅] 📖 독서
+- [✅] :Flutter: Flutter Animations 강의 리뷰 [5.0~5.2]
+- [✅] :Flutter: Flutter Animations 강의 [5.3~5.4]
+- [✅] :Flutter: Flutter Animations 'Week 10' 챌린지 (2일차)
+- [✅] 🏋️ 운동
+- [✅] 💻 일일 코드 리뷰
+- [✅] ✍️ 블로그 작성
+- [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.10.11(Wed) 🍂
 - [ ] 📖 독서
-- [ ] :Flutter: Flutter Animations 강의 리뷰 [5.0~5.2]
-- [ ] :Flutter: Flutter Animations 강의 [5.3~5.4]
-- [ ] :Flutter: Flutter Animations 'Week 10' 챌린지 (2일차)
+- [ ] 📝 10주차 주간회고록 작성
+- [ ] :Flutter: Flutter Animations 강의 리뷰 [5.3~5.4]
+- [ ] :Flutter: Flutter Animations 강의 [5.5~5.8]
+- [ ] :Flutter: Flutter Animations 'Week 10' Final Project (1일차)
 - [ ] 🏋️ 운동
 - [ ] 💻 일일 코드 리뷰
 - [ ] ✍️ 블로그 작성
+- [ ] ⏰ 10주차 주간회의 (08:00 PM)
 - [ ] 🎮 C#, Unity - 게임개발 공부

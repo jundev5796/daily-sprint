@@ -2212,7 +2212,7 @@ Recording Daily To-Do-List
 2023.10.10(Tue)
 - [ ] 📖 독서
 - [ ] :Flutter: Flutter Animations 강의 리뷰 [5.0~5.2]
-- [ ] :Flutter: Flutter Animations 강의 [5.3~5.5]
+- [ ] :Flutter: Flutter Animations 강의 [5.3~5.4]
 - [ ] :Flutter: Flutter Animations 'Week 10' 챌린지 (2일차)
 - [ ] 🏋️ 운동
 - [ ] 💻 일일 코드 리뷰

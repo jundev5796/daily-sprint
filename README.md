@@ -2264,3 +2264,11 @@ Recording Daily To-Do-List
 - [✅] 📖 독서
 - [✅] :Flutter: Flutter Animations 'Week 10' Final Project (5일차) --> 제출완료!
 - [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.10.17(Tue)
+- [ ] 📖 독서
+- [ ] :Flutter: Flutter Animations 강의 [1.1~1.3]
+- [ ] 🏋️ 운동
+- [ ] 💻 일일 코드 리뷰
+- [ ] ✍️ 블로그 작성
+- [ ] 🎮 C#, Unity - 게임개발 공부

@@ -2278,3 +2278,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ 운동
 - [✅] ⏰ Flutter 챌린지 종강회 (08:00 PM)
 - [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.10.19(Thu)
+- [ ] 📖 독서
+- [ ] 💻 HTML/CSS 리뷰 [2.6~2.11]
+- [ ] 🏋️ 운동
+- [ ] ⏰ Flutter 챌린지 종강회 (08:00 PM)
+- [ ] 🎮 C#, Unity - 게임개발 공부

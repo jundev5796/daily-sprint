@@ -2331,6 +2331,6 @@ Recording Daily To-Do-List
 
 2023.10.27(Fri)
 - [✅] 📖 독서
-- [✅] 💻 HTML/CSS 리뷰 [4.0~4.1]
+- [✅] 💻 HTML/CSS 리뷰 [4.0~4.4]
 - [✅] 🏋️ 운동
 - [✅] 🎮 C#, Unity - 게임개발 공부

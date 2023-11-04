@@ -2378,6 +2378,6 @@ Recording Daily To-Do-List
 
 2023.11.04(Sat)
 - [✅] 📖 독서
-- [✅] 💻 HTML/CSS 리뷰 [6.10~6.11]
+- [✅] 💻 HTML/CSS 리뷰 [6.10~6.12]
 - [✅] 🏋️ 운동
 - [✅] 🎮 C#, Unity - 게임개발 공부

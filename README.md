@@ -2381,3 +2381,8 @@ Recording Daily To-Do-List
 - [✅] 💻 HTML/CSS 리뷰 [6.10~6.12]
 - [✅] 🏋️ 운동
 - [✅] 🎮 C#, Unity - 게임개발 공부
+
+2023.11.05(Sun)
+- [ ] 📖 독서
+- [ ] 💻 HTML/CSS 리뷰 [6.13~6.14]
+- [ ] 🎮 C#, Unity - 게임개발 공부

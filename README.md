@@ -2622,7 +2622,7 @@ Recording Daily To-Do-List
 - [✅] 🎮 C#, Unity - 게임개발 공부
 
 2023.12.18(Mon)
-- [ ] 📖 독서
-- [ ] 💻 CSS Layout [1.0-1.2]
-- [ ] 🏋️ 운동
-- [ ] 🎮 C#, Unity - 게임개발 공부
+- [✅] 📖 독서
+- [✅] 💻 CSS Layout [1.0-1.2]
+- [✅] 🏋️ 운동
+- [✅] 🎮 C#, Unity - 게임개발 공부

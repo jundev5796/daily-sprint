@@ -2746,7 +2746,13 @@ Recording Daily To-Do-List
 - [✅] 🎮 C#, Unity - 게임개발 공부
 
 2024.01.18(Thu)
+- [✅] 📖 독서
+- [✅] 💻 CSS Layout [5.9]
+- [✅] 🏋️ 운동
+- [✅] 🎮 C#, Unity - 게임개발 공부
+
+2024.01.19(Fri)
 - [ ] 📖 독서
-- [ ] 💻 CSS Layout [5.9]
+- [ ] 💻 CSS Layout [5.10]
 - [ ] 🏋️ 운동
 - [ ] 🎮 C#, Unity - 게임개발 공부

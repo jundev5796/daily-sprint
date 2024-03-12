@@ -2797,10 +2797,19 @@ Recording Daily To-Do-List
 - [✅] 💻 HTML/CSS 리뷰
 
 2024.03.12(Tue)
+- [✅] 📖 독서
+- [✅] 💻 Python으로 웹 스크래퍼 만들기 복습
+- [✅] 💻 Python으로 웹 스크래퍼 만들기 'Week 1' 퀴즈
+- [✅] 💻 Python으로 웹 스크래퍼 만들기 예습 
+- [✅] 🏋️ 운동
+- [✅] 🔢 수학공부
+- [✅] 💻 HTML/CSS 리뷰
+
+2024.03.13(Wed)
 - [ ] 📖 독서
-- [ ] 💻 Python으로 웹 스크래퍼 만들기 복습
-- [ ] 💻 Python으로 웹 스크래퍼 만들기 'Week 1' 퀴즈
-- [ ] 💻 Python으로 웹 스크래퍼 만들기 예습 
+- [ ] 🐍 Python 복습
+- [ ] 🐍 Python 'Week 1' 챌린지
+- [ ] 🐍 Python 예습 
 - [ ] 🏋️ 운동
 - [ ] 🔢 수학공부
 - [ ] 💻 HTML/CSS 리뷰

@@ -2824,10 +2824,10 @@ Recording Daily To-Do-List
 - [✅] 💻 CSS 리뷰
 
 2024.03.15(Fri)
-- [ ] 📖 독서
-- [ ] 🐍 Python 강의 복습
-- [ ] 🐍 Python 'Week 1' 퀴즈
-- [ ] 🐍 Python 강의 예습
-- [ ] 🏋️ 운동
-- [ ] 🔢 수학공부
-- [ ] 💻 CSS 리뷰
+- [✅] 📖 독서
+- [✅] 🐍 Python 강의 복습
+- [✅] 🐍 Python 'Week 1' 퀴즈
+- [✅] 🐍 Python 강의 예습
+- [✅] 🏋️ 운동
+- [✅] 🔢 수학공부
+- [✅] 💻 CSS 리뷰

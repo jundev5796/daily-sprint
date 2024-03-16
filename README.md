@@ -2833,10 +2833,17 @@ Recording Daily To-Do-List
 - [✅] 💻 CSS 리뷰
 
 2024.03.16(Sat)
+- [✅] 📖 독서
+- [✅] 🐍 Python 강의 복습
+- [✅] 🐍 Python 'Week 1' 챌린지
+- [✅] 🐍 Python 강의 예습
+- [✅] 🏋️ 운동
+- [✅] 🔢 수학공부
+- [✅] 💻 CSS 리뷰
+
+2024.03.17(Sun)
 - [ ] 📖 독서
 - [ ] 🐍 Python 강의 복습
-- [ ] 🐍 Python 'Week 1' 챌린지
 - [ ] 🐍 Python 강의 예습
-- [ ] 🏋️ 운동
 - [ ] 🔢 수학공부
 - [ ] 💻 CSS 리뷰

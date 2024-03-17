@@ -2842,8 +2842,8 @@ Recording Daily To-Do-List
 - [✅] 💻 CSS 리뷰
 
 2024.03.17(Sun)
-- [ ] 📖 독서
-- [ ] 🐍 Python 강의 복습
-- [ ] 🐍 Python 강의 예습
-- [ ] 🔢 수학공부
-- [ ] 💻 CSS 리뷰
+- [✅] 📖 독서
+- [✅] 🐍 Python 강의 복습
+- [✅] 🐍 Python 강의 예습
+- [✅] 🔢 수학공부
+- [✅] 💻 CSS 리뷰

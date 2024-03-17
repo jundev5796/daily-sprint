@@ -2847,3 +2847,12 @@ Recording Daily To-Do-List
 - [✅] 🐍 Python 강의 예습
 - [✅] 🔢 수학공부
 - [✅] 💻 CSS 리뷰
+
+2024.03.18(Mon)
+- [ ] :book: 독서
+- [ ] :snake: Python 강의 복습
+- [ ] :snake: Python 'Week 2' 퀴즈
+- [ ] :snake: Python 강의 예습
+- [ ] :person_lifting_weights: 운동
+- [ ] :1234: 수학공부
+- [ ] :computer: CSS 리뷰

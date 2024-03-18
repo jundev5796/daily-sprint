@@ -2849,10 +2849,20 @@ Recording Daily To-Do-List
 - [✅] 💻 CSS 리뷰
 
 2024.03.18(Mon)
-- [ ] :book: 독서
-- [ ] :snake: Python 강의 복습
-- [ ] :snake: Python 'Week 2' 퀴즈
-- [ ] :snake: Python 강의 예습
-- [ ] :person_lifting_weights: 운동
-- [ ] :1234: 수학공부
-- [ ] :computer: CSS 리뷰
+- [✅] :book: 독서
+- [✅] :snake: Python 강의 복습
+- [✅] :snake: Python 'Week 2' 퀴즈
+- [✅] :snake: Python 강의 예습
+- [✅] :person_lifting_weights: 운동
+- [✅] :1234: 수학공부
+- [✅] :computer: CSS 리뷰
+
+2024.03.19(Tue)
+- [ ] 📖 독서
+- [ ] 📝 2주차 주간회고록 작성
+- [ ] 💻 Python으로 웹 스크래퍼 만들기 복습
+- [ ] 💻 Python으로 웹 스크래퍼 만들기 'Week 2' 챌린지
+- [ ] 💻 Python으로 웹 스크래퍼 만들기 예습 
+- [ ] 🏋️ 운동
+- [ ] 🔢 수학 공부
+- [ ] 💻 HTML/CSS 리뷰

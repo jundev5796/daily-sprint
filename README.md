@@ -2904,8 +2904,17 @@ Recording Daily To-Do-List
 - [✅] 💻 CSS 리뷰
 
 2024.03.24(Sun)
+- [✅] 📖 독서
+- [✅] 🐍 FullStack GPT 강의 복습
+- [✅] 🐍 FullStack GPT 강의 예습
+- [✅] 🏋️ 운동
+- [✅] 🔢 수학 공부
+- [✅] 💻 CSS 리뷰
+
+2024.03.25(Mon)
 - [ ] 📖 독서
 - [ ] 🐍 FullStack GPT 강의 복습
+- [ ] 🐍 Python 'Week 3' 챌린지 #1
 - [ ] 🐍 FullStack GPT 강의 예습
 - [ ] 🏋️ 운동
 - [ ] 🔢 수학 공부

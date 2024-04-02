@@ -2924,7 +2924,7 @@ Recording Daily To-Do-List
 - [✅] 📖 독서
 - [✅] 📝 3주차 주간회고록 작성
 - [✅] 🐍 FullStack GPT 강의 복습
-- [✅] 🐍 Python 'Week 3' 챌린지 #1
+- [✅] 🐍 Python 'Week 3' 챌린지 #2
 - [✅] 🐍 FullStack GPT 강의 예습
 - [✅] 🏋️ 운동
 - [✅] 📆 3주차 주간회의

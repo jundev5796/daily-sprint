@@ -3020,3 +3020,13 @@ Recording Daily To-Do-List
 - [ ] 🏋️ 운동
 - [ ] 🔢 수학 공부
 - [ ] 💻 CSS 리뷰
+
+2024.04.06(Sat)
+- [ ] 📖 독서
+- [ ] 🐍 FullStack GPT 강의 복습
+- [ ] 🐍 FullStack GPT 챌린지 #6
+- [ ] 🐍 FullStack GPT 강의 예습
+- [ ] 🏋️ 운동
+- [ ] 📆 오프라인 모각코
+- [ ] 🔢 수학 공부
+- [ ] 💻 CSS 리뷰

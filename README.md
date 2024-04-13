@@ -3086,10 +3086,17 @@ Recording Daily To-Do-List
 - [✅] 💻 Odin Project - JavaScript (DAY 4)
 
 2024.04.13(Sat)
+- [✅] 📖 Reading
+- [✅] 🐍 FullStack GPT 강의 복습
+- [✅] 🐍 FullStack GPT 챌린지 #9
+- [✅] 🐍 FullStack GPT 강의 예습
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 Odin Project - JavaScript (DAY 5)
+
+2024.04.14(Sun)
 - [ ] 📖 Reading
-- [ ] 🐍 FullStack GPT 강의 복습
-- [ ] 🐍 FullStack GPT 챌린지 #9
-- [ ] 🐍 FullStack GPT 강의 예습
-- [ ] 🏋️ Gym Workout
+- [ ] 💻 Odin Project - JavaScript (DAY 6)
+- [ ] 🐍 Airbnb 강의 예습
 - [ ] 🔢 Study Math
-- [ ] 💻 Odin Project - JavaScript (DAY 5)
+- [ ] 🖌️ CSS Review

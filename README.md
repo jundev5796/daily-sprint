@@ -3128,3 +3128,13 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 🖌️ CSS Review
+
+2024.04.18(Thu)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 10)
+- [ ] 🐍 Airbnb Coding 강의
+- [ ] 🐍 Airbnb Coding 퀴즈
+- [ ] 🗓️ 개인 일정 (오후)
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 🖌️ CSS Review

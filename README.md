@@ -3121,10 +3121,10 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.04.17(Wed)
-- [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 9)
-- [ ] 🐍 Airbnb Coding 강의
-- [ ] 🐍 Airbnb Coding 퀴즈
-- [ ] 🏋️ Gym Workout
-- [ ] 🔢 Study Math
-- [ ] 🖌️ CSS Review
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 9)
+- [✅] 🐍 Airbnb Coding 강의
+- [✅] 🐍 Airbnb Coding 퀴즈
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review

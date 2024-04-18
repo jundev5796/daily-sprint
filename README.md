@@ -3138,3 +3138,12 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 🖌️ CSS Review
+
+2024.04.19(Fri)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 11)
+- [ ] 🐍 Airbnb Coding 강의
+- [ ] 🐍 Airbnb Coding 챌린지 #1
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 🖌️ CSS Review

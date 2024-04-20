@@ -3147,3 +3147,11 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 🖌️ CSS Review
+
+2024.04.20(Sat)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 12)
+- [ ] 🐍 Airbnb Coding 강의
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 🖌️ CSS Review

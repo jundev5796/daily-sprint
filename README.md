@@ -3155,3 +3155,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 🖌️ CSS Review
+
+2024.04.21(Sun)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 13)
+- [ ] 🐍 Airbnb Coding 강의
+- [ ] 🔢 Study Math
+- [ ] 🖌️ CSS Review

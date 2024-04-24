@@ -3183,10 +3183,10 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.04.24(Wed)
-- [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 16)
-- [ ] 🐍 Airbnb Coding 강의
-- [ ] 🐍 Airbnb Coding 챌린지 #4
-- [ ] 🏋️ Gym Workout
-- [ ] 🔢 Study Math
-- [ ] 🖌️ CSS Review
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 16)
+- [✅] 🐍 Airbnb Coding 강의
+- [✅] 🐍 Airbnb Coding 챌린지 #4
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review

@@ -3210,9 +3210,16 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.04.27(Sat)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 19)
+- [✅] 🐍 Airbnb Coding 강의
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review
+
+2024.04.28(Sun)
 - [ ] 📖 Reading
 - [ ] 💻 Odin Project - JavaScript (DAY 19)
 - [ ] 🐍 Airbnb Coding 강의
-- [ ] 🏋️ Gym Workout
 - [ ] 🔢 Study Math
 - [ ] 🖌️ CSS Review

@@ -3261,8 +3261,17 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.05.03(Fri)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 24)
+- [✅] 🐍 Airbnb Coding 강의
+- [🛠️] 🐍 Airbnb Coding 챌린지 #7
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review
+
+2024.05.04(Sat)
 - [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 24)
+- [ ] 💻 Odin Project - JavaScript (DAY 25)
 - [ ] 🐍 Airbnb Coding 강의
 - [ ] 🐍 Airbnb Coding 챌린지 #7
 - [ ] 🏋️ Gym Workout

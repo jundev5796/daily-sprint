@@ -3280,3 +3280,10 @@ Recording Daily To-Do-List
 
 2024.05.05(Sun)
 - [✅] 🐍 Airbnb Coding 챌린지 #7
+
+2024.05.06(Mon)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 26)
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 🖌️ CSS Review

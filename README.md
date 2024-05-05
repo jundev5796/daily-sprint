@@ -3270,10 +3270,13 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.05.04(Sat)
-- [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 25)
-- [ ] 🐍 Airbnb Coding 강의
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 25)
+- [✅] 🐍 Airbnb Coding 강의
+- [🛠️] 🐍 Airbnb Coding 챌린지 #7
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review
+
+2024.05.05(Sun)
 - [ ] 🐍 Airbnb Coding 챌린지 #7
-- [ ] 🏋️ Gym Workout
-- [ ] 🔢 Study Math
-- [ ] 🖌️ CSS Review

@@ -3279,4 +3279,4 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.05.05(Sun)
-- [ ] 🐍 Airbnb Coding 챌린지 #7
+- [✅] 🐍 Airbnb Coding 챌린지 #7

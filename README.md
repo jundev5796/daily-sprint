@@ -3294,3 +3294,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 🖌️ CSS Review
+
+2024.05.10(Fri)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 28)
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 🖌️ CSS Review

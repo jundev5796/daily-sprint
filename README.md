@@ -3301,3 +3301,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 🖌️ CSS Review
+
+2024.05.11(Sat)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 29)
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 🖌️ CSS Review

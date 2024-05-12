@@ -3303,8 +3303,14 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.05.11(Sat)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 29)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review
+
+2024.05.11(Sat)
 - [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 29)
-- [ ] 🏋️ Gym Workout
+- [ ] 💻 Odin Project - JavaScript (DAY 30)
 - [ ] 🔢 Study Math
 - [ ] 🖌️ CSS Review

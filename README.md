@@ -3323,8 +3323,15 @@ Recording Daily To-Do-List
 - [✅] 🖌️ CSS Review
 
 2024.05.14(Tue)
-- [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 32)
-- [ ] 🏋️ Gym Workout
-- [ ] 🔢 Study Math
-- [ ] 🖌️ CSS Review
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 32)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review
+
+2024.05.15(Wed)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 33)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 🖌️ CSS Review

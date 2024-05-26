@@ -3377,9 +3377,16 @@ Recording Daily To-Do-List
 - [✅] 🔢 Study Math
 - [✅] 💻 JS Review
 
-2024.05.23(Wed)
+2024.05.23(Thu)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 40)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review
+
+2024.05.27(Mon)
 - [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 40)
+- [ ] 💻 Odin Project - JavaScript (DAY 41)
 - [ ] 🏋️ Gym Workout
 - [ ] 🔢 Study Math
 - [ ] 💻 JS Review

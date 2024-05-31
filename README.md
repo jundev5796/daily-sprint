@@ -3411,3 +3411,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 💻 JS Review
+
+2024.05.31(Fri)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 45)
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 💻 JS Review

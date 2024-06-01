@@ -3420,8 +3420,14 @@ Recording Daily To-Do-List
 - [✅] 💻 JS Review
 
 2024.06.01(Sat)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 46)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review
+
+2024.06.02(Sun)
 - [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 46)
-- [ ] 🏋️ Gym Workout
+- [ ] 💻 Odin Project - JavaScript (DAY 47)
 - [ ] 🔢 Study Math
 - [ ] 💻 JS Review

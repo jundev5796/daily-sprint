@@ -3686,3 +3686,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 💻 JS Review
+
+2024.07.22(Mon)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 85)
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 💻 JS Review

@@ -3779,7 +3779,14 @@ Recording Daily To-Do-List
 - [✅] 💻 JS Review 
 
 2024.08.04(Sun)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 98)
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review
+
+2024.08.05(Mon)
 - [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 98)
+- [ ] 💻 Odin Project - JavaScript (DAY 99)
+- [ ] 🏋️ Gym Workout
 - [ ] 🔢 Study Math
 - [ ] 💻 JS Review

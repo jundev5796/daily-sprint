@@ -3813,8 +3813,8 @@ Recording Daily To-Do-List
 - [✅] 💻 JS Review
 
 2024.08.09(Fri)
-- [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 103)
-- [ ] 🏋️ Gym Workout
-- [ ] 🔢 Study Math
-- [ ] 💻 JS Review
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 103)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review

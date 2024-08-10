@@ -3818,3 +3818,16 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 💻 JS Review
+
+2024.08.10(Sat)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 104)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review
+
+2024.08.11(Sun)
+- [ ] 📖 Reading
+- [ ] 💻 Odin Project - JavaScript (DAY 105)
+- [ ] 🔢 Study Math
+- [ ] 💻 JS Review

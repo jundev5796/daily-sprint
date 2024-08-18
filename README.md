@@ -3868,8 +3868,15 @@ Recording Daily To-Do-List
 - [✅] 💻 JS Review
 
 2024.08.17(Sat)
+- [✅] 📖 Reading
+- [✅] 💻 Odin Project - JavaScript (DAY 111)
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review
+
+2024.08.18(Sun)
 - [ ] 📖 Reading
-- [ ] 💻 Odin Project - JavaScript (DAY 111)
+- [ ] 💻 Odin Project - JavaScript (DAY 112)
 - [ ] 🏋️ Gym Workout
 - [ ] 🔢 Study Math
 - [ ] 💻 JS Review

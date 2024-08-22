@@ -3908,3 +3908,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 💻 JS Review
+
+2024.08.23(Fri)
+- [ ] 📖 Reading
+- [ ] 💻 Programming with Python
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 💻 JS Review

@@ -3922,3 +3922,17 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 💻 JS Review
+
+2024.08.25(Sun)
+- [✅] 📖 Reading
+- [✅] 💻 CS50 - Programming with Python
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review
+
+2024.08.26(Mon)
+- [✅] 📖 Reading
+- [✅] 💻 CS50 - Programming with Python
+- [✅] 🏋️ Gym Workout
+- [✅] 🔢 Study Math
+- [✅] 💻 JS Review

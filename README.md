@@ -3936,3 +3936,10 @@ Recording Daily To-Do-List
 - [✅] 🏋️ Gym Workout
 - [✅] 🔢 Study Math
 - [✅] 💻 JS Review
+
+2024.08.27(Tue)
+- [ ] 📖 Reading
+- [ ] 💻 CS50 - Programming with Python
+- [ ] 🏋️ Gym Workout
+- [ ] 🔢 Study Math
+- [ ] 💻 JS Review
